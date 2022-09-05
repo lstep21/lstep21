@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm LJ</h1>
 <h3 align="center">A passionate full stack developer from US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lstep21" alt="lstep21" /></a> </p>
-
 - 🔭 I’m currently working on **Skincare Scheduler**
 
 - 🌱 I’m currently learning **React**
